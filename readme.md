@@ -1,6 +1,6 @@
 # Crosstalk Fortran Programs — Introduction to Electromagnetic Compatibility (Paul, Scully, Steffka, 3rd ed.)
 
-Seven Fortran 77 programs by Clayton R. Paul (University of Kentucky) for computing crosstalk on Multiconductor Transmission Lines (MTLs). This README covers building them with **VS Code + WSL2** and explains what each source file does.
+Seven Fortran 77 programs by Clayton R. Paul (University of Kentucky) for computing crosstalk on Multiconductor Transmission Lines (MTLs). This README covers building them with **VS Code + WSL2** and explains what each source file does. The codes were take from the [Wiley FTP](https://ftp.wiley.com/public/sci_tech_med/electromagnetic_compatability) repository.
 
 ---
 
