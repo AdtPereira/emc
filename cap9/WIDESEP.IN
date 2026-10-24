@@ -1,0 +1,13 @@
+2                  =NUMBER OF WIRES (EXCLUDING REFERENCE CONDUCTOR)
+3                  =REF CONDUCTOR (1=WIRE,2=GND PLANE,3=OVERALL SHIELD)
+1.0                =RELATIVE PERMITTIVITY ER OF HOMOGENEOUS MEDIUM
+1.0                =RELATIVE PERMEABILITY MUR OF HOMOGENEOUS MEDIUM
+30.                =REF WIRE RADIUS OR SHIELD INTERIOR RADIUS (mils)
+1                  =WIRE #1
+7.5                =RADIUS OF WIRE #1 (mils)
+15.                =   1=X1(meters), 2=H1(meters), 3=D1(mils)
+0.                 =   1=Y1(meters), 2=Y1(meters), 3=THETA1(degrees)
+2                  =WIRE #2
+7.5                =RADIUS OF WIRE #2 (mils)
+15.                =   1=X2(meters), 2=H2(meters), 3=D2(mils)
+180.               =   1=Y2(meters), 2=Y2(meters), 3=THETA2(degrees)

@@ -1,0 +1,15 @@
+  1    1   2.19722E-07        =L(  1,  1)
+  1    2   4.46287E-08        =L(  1,  2)
+  2    2   2.19722E-07        =L(  2,  2)
+  1    1   5.28179E-11        =C(  1,  1)
+  1    2  -1.07281E-11        =C(  1,  2)
+  2    2   5.28179E-11        =C(  2,  2)
+
+
+NUMBER OF WIRES=  2
+RELATIVE PERMITTIVITY OF HOMOGENEOUS MEDIUM=  1.0
+RELATIVE PERMEABILITY OF HOMOGENEOUS MEDIUM=  1.0
+REFERENCE CONDUCTOR IS A SHIELD WITH RADIUS (mils)= 3.000E+01
+WIRE #  WIRE RADIUS (mils)  POSITION RADIUS (mils)  POSITION ANGLE (degrees)
+  1        7.500E+00            1.500E+01               0.000E+00
+  2        7.500E+00            1.500E+01               1.800E+02

@@ -1,0 +1,18 @@
+  1    1   3.35327E-07        =L(  1,  1)
+  1    2   3.71527E-08        =L(  1,  2)
+  2    2   3.35327E-07        =L(  2,  2)
+  1    1   1.15511E-10        =C(  1,  1)
+  1    2  -4.92724E-12        =C(  1,  2)
+  2    2   1.15511E-10        =C(  2,  2)
+  1    1   3.35934E-11        =C0(  1,  1)
+  1    2  -3.72200E-12        =C0(  1,  2)
+  2    2   3.35934E-11        =C0(  2,  2)
+
+
+
+NUMBER OF LANDS=  2
+NUMBER OF DIVISIONS PER LAND= 30
+LAND WIDTH (mils)= 1.000E+02
+EDGE-TO-EDGE SEPARATION (mils)= 1.000E+02
+BOARD THICKNESS (mils)= 6.200E+01
+RELATIVE DIELECTRIC CONSTANT= 4.700E+00

@@ -1,0 +1,7 @@
+3                            =TOTAL NUMBER OF WIRES
+20                           =NUMBER OF FOURIER COEFFICIENTS
+2                            =NUMBER OF REFERENCE WIRE
+7.5                          =WIRE RADIUS (mils)
+10.0                         =INSULATION THICKNESS (mils)
+3.5                          =RELATIVE DIELECTRIC CONSTANT OF INSULATION
+50.0                         =ADJACENT WIRE SEPARATION (mils)

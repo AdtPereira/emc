@@ -1,0 +1,19 @@
+  1    1   7.48501E-07        =L(  1,  1)
+  1    2   2.40801E-07        =L(  1,  2)
+  2    2   7.48501E-07        =L(  2,  2)
+  1    1   2.49819E-11        =C(  1,  1)
+  1    2  -6.26613E-12        =C(  1,  2)
+  2    2   2.49819E-11        =C(  2,  2)
+  1    1   1.65812E-11        =C0(  1,  1)
+  1    2  -5.33434E-12        =C0(  1,  2)
+  2    2   1.65812E-11        =C0(  2,  2)
+
+
+
+NUMBER OF WIRES=  3
+NUMBER OF FOURIER COEFFICIENTS= 20
+REFERENCE WIRE=  2
+WIRE RADIUS (mils)= 7.500E+00
+DIELECTRIC INSULATION THICKNESS (mils)= 1.000E+01
+DIELECTRIC CONSTANT OF INSULATION= 3.500E+00
+CENTER-TO-CENTER SEPARATION (mils)= 5.000E+01

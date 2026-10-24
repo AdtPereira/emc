@@ -1,0 +1,7 @@
+3                            =TOTAL NUMBER OF LANDS
+30                           =NUMBER OF CONDUCTOR SUBSECTIONS
+3                            =NUMBER OF REFERENCE LAND
+15.0                         =LAND WIDTH (mils)
+45.0                         =EDGE-TO-EDGE LAND SEPARATION (mils)
+47.                          =BOARD THICKNESS (mils)
+4.7                          =BOARD RELATIVE DIELECTRIC CONSTANT

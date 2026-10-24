@@ -1,0 +1,21 @@
+# Executáveis compilados no Linux
+cap9/widesep
+cap9/pcb
+cap9/mstrp
+cap9/ribbon
+cap9/strpline
+cap9/spicemtl
+cap9/spicelpi
+*.o
+*.mod
+
+# Saídas geradas a cada execução
+cap9/PUL.DAT
+cap9/ref/
+
+# Binários antigos do DOS/Windows
+*.EXE
+
+# VS Code (mantém só o tasks.json)
+.vscode/*
+!.vscode/tasks.json

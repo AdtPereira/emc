@@ -1,0 +1,6 @@
+2                       =TOTAL NUMBER OF LANDS (EXCLUSIVE OF GND PLANE)
+30                      =NUMBER OF CONDUCTOR SUBSECTIONS
+5.                      =LAND WIDTH (mils)
+5.                      =EDGE-TO-EDGE LAND SEPARATION (mils)
+20.                     =SEPARATION BETWEEN GROUND PLANES (mils)
+4.7                     =BOARD RELATIVE DIELECTRIC CONSTANT

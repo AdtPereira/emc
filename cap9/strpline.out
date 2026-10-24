@@ -1,0 +1,18 @@
+  1    1   4.63055E-07        =L(  1,  1)
+  1    2   9.21843E-08        =L(  1,  2)
+  2    2   4.63054E-07        =L(  2,  2)
+  1    1   1.17594E-10        =C(  1,  1)
+  1    2  -2.34105E-11        =C(  1,  2)
+  2    2   1.17594E-10        =C(  2,  2)
+  1    1   2.50201E-11        =C0(  1,  1)
+  1    2  -4.98097E-12        =C0(  1,  2)
+  2    2   2.50201E-11        =C0(  2,  2)
+
+
+
+NUMBER OF LANDS=  2
+NUMBER OF DIVISIONS PER LAND= 30
+LAND WIDTH (mils)= 5.000E+00
+EDGE-TO-EDGE SEPARATION (mils)= 5.000E+00
+SEPARATION BETWEEN GROUND PLANES (mils)= 2.000E+01
+RELATIVE DIELECTRIC CONSTANT= 4.700E+00
